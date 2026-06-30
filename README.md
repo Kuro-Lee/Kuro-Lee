@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Pilawe 👋  
+Cybersecurity student | SOC analyst in training | Python security tools builder
 
-<!--
-**Kuro-Lee/Kuro-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Projects
 
-Here are some ideas to get you started:
+### **Phishing Email Analyzer (Python)**
+A Python tool that detects phishing indicators in email text using keyword heuristics, suspicious URL detection, and sender anomaly checks. Outputs a risk score and SOC-style verdict to simulate real-world triage.  
+🔗 Repo: https://github.com/Kuro-Lee/phishing-email-analyzer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Firewall Rule Visualizer (Python) — Coming Soon**
+A tool that visualizes inbound/outbound firewall rules, highlights misconfigurations, and explains rule logic in plain English.  
+🔗 Repo: (coming soon)
+
+### **Network Scanner (Python) — Coming Soon**
+A safe port-scanning and service-detection tool for home lab environments.  
+🔗 Repo: (coming soon)
+
+---
+
+## 🛠 Skills
+- Python (security automation)
+- Networking fundamentals (DNS, DHCP, VPN, VoIP)
+- SOC triage concepts
+- Git & GitHub
+- Cybersecurity lab documentation
+- Linux command-line fundamentals
+
+---
+
+## 🎯 Goals
+- Build 10 cybersecurity tools
+- Earn SOCOA I certification
+- Land a cybersecurity internship or SOC analyst role
+
+---
+
+## 📫 Contact
+**Email:** pilawepatrickpato@gmail.com  
+**GitHub:** https://github.com/Kuro-Lee
