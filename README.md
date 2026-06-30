@@ -28,9 +28,9 @@ A safe port-scanning and service-detection tool for home lab environments.
 ---
 
 ## 🎯 Goals
-- Build 10 cybersecurity tools
-- Earn SOCOA I certification
-- Land a cybersecurity internship or SOC analyst role
+- Build 10 productive cybersecurity tools
+- Earn CISSP Certification
+- Land a SOC analyst role
 
 ---
 
