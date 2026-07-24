@@ -1,5 +1,5 @@
 # Hi, I'm Pilawe 👋  
-Cybersecurity student | SOC analyst | Python security tools builder
+Cybersecurity Professional | SOC analyst | Python security tools builder
 
 ## 🔐 Cybersecurity Projects
 
